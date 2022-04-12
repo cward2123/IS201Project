@@ -1,0 +1,42 @@
+.maincontent{
+    background-image: linear-gradient(slategrey, white);
+}
+
+.links {
+    font-size: 13px;
+    font-weight:400;
+    color: white;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom:150px;
+}
+
+.shfix {
+    color: white;
+    font-weight: 300;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.white {
+    color: white;
+}
+
+.small {
+    font-size: 18px;
+}
+
+.image {
+    height: 200px;
+    padding: 10px;
+    border: white;
+    border-width: 2px;
+}
+
+body {
+    background-color: rgb(221, 220, 219);
+}
+
+.outsideref {
+    font-size: 18px;
+}
